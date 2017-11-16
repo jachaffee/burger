@@ -1,0 +1,16 @@
+
+body {
+	background-color: #fcc742;
+}
+
+h1, h4 {
+	color: white;
+}
+
+.jumbotron {
+	background-color: #d32d27;
+}
+
+#title {
+	color: white;
+}
